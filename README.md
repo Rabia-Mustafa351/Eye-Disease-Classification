@@ -1,1 +1,2 @@
 # Eye-Disease-Classification
+I spearheaded a project aimed at advancing the accuracy of eye disease classification beyond the established benchmark of 84%, as outlined in the referenced paper (https://arxiv.org/pdf/2307.10501.pdf). Leveraging Convolutional Neural Network (CNN) architectures and employing various fine-tuning methodologies, I led a comprehensive exploration into the impact of different model configurations on disease classification accuracy.
